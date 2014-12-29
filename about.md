@@ -1,3 +1,7 @@
+---
+title: About this site
+---
+
 This is the result of a crazy idea that came up whilst thinking about setting up my own blog. 
 My *default* intention was to host it on [Worpdress.com](http://Wordpress.com), but some more research "uncovered" the recent trend of static blogging (or, should I say "revival" -  given that was how the initial pages on the Internet were served ;) 
 
